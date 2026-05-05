@@ -3,8 +3,10 @@ name: Run Java Program
 
 on:
   push:
-    branches: [main]
-  workflow_dispatch: AlaaDowais
+    branches: 
+    - Operations
+    - AlaaDowais
+  workflow_dispatch: 
 
 jobs:
   build:
