@@ -7,7 +7,7 @@ on:
       - main
       - AlaaDowais
       - AljoryAlabdulqadir
-      - Aljory2
+      - aljory2
   workflow_dispatch:
 
 jobs:
