@@ -6,7 +6,7 @@ on:
     branches:
       - main
       - AlaaDowais
-      -AljoryAlabdulqadir
+      - AljoryAlabdulqadir
   workflow_dispatch:
 
 jobs:
