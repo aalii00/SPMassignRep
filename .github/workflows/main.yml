@@ -8,6 +8,7 @@ on:
       - AlaaDowais
       - AljoryAlabdulqadir
       - aljory2
+      - elan
   workflow_dispatch:
 
 jobs:
