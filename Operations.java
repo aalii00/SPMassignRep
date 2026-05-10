@@ -5,7 +5,7 @@ public class Operations {
     System.out.println(subtract(k,m));
 
     int minutes = 120;
-    System.out.println(convertToHours(minutes));
+    System.out.println(min_to_hour(minutes));
 
 
     
